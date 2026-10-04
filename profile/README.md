@@ -7,7 +7,7 @@ Still Systems builds **TreeResolve**, a local-first Visual Studio Code extension
 | | |
 |---|---|
 | Product site | [stillsystems.github.io/treeresolve-community](https://stillsystems.github.io/treeresolve-community/) |
-| Org site root | [stillsystems.github.io](https://stillsystems.github.io/) (redirects to the product site) |
+| Organization home | [stillsystems.github.io](https://stillsystems.github.io/) |
 | Issues and discussions | [treeresolve-community](https://github.com/stillsystems/treeresolve-community) |
 | VS Code Marketplace | [still-systems.ss-treeresolve](https://marketplace.visualstudio.com/items?itemName=still-systems.ss-treeresolve) |
 | Open VSX | [stillsystems.treeresolve](https://open-vsx.org/extension/stillsystems/treeresolve) |
